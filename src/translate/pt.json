@@ -1,0 +1,10 @@
+{
+  "TITLE": "Quadrinhos do xkcd para desenvolvedores",
+  "LATEST_COMICS": "Últimos Quadrinhos",
+  "NAVIGATION": "Início, Sobre, Mais, Busca de Quadrinhos",
+  "LANGUAGE_NAV": "Idiomas disponíveis:",
+  "FOOTER": "Quadrinhos do xkcd estão licenciados sob uma Licença Creative Commons Attribution-NonCommercial 2.5. Aplicativo criado por: Oscar Velez. & Este projeto foi inspirado no curso do incrível professor de tecnologia & ossavemu (2023) - código fonte",
+  "SEARCH_RESULTS_TITLE": "{0} resultados para {1}",
+  "DEFAULT_SEARCH_TEXT": "Busca - xkcd",
+  "TITLE_SEARCH": "Resultados para {0}"
+}

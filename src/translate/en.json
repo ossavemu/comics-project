@@ -1,0 +1,10 @@
+{
+  "TITLE": "Comics by xkcd for developers",
+  "LATEST_COMICS": "Latest Comics",
+  "NAVIGATION": "Home, About, More, Search comic",
+  "LANGUAGE_NAV": "Available languages:",
+  "FOOTER": "Comics by xkcd is licensed under a Creative Commons Attribution-NonCommercial 2.5 License. Application created by: Oscar Velez. & This project was inspired by the course of amazing tech teacher & ossavemu(2023) - source code",
+  "SEARCH_RESULTS_TITLE": "{0} results for {1}",
+  "DEFAULT_SEARCH_TEXT": "Search - xkcd",
+  "TITLE_SEARCH": "Results for {0}"
+}

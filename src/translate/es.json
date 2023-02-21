@@ -1,0 +1,10 @@
+{
+  "TITLE": "Comics de xkcd para desarrolladores",
+  "LATEST_COMICS": "Últimos cómics",
+  "NAVIGATION": "Inicio, Acerca del proyecto, Más, Buscar comics",
+  "LANGUAGE_NAV": "Idiomas disponibles:",
+  "FOOTER": "Este sitio web no está afiliado con xkcd.com. Todos los derechos reservados a Randall Munroe. Aplicación creada por: Oscar Vélez.& Este proyecto fue inspirado por el curso del increíble profesor de tecnología & ossavemu(2023) - ver código fuente",
+  "SEARCH_RESULTS_TITLE": "{0} resultados para {1}",
+  "DEFAULT_SEARCH_TEXT": "Buscar cómics",
+  "TITLE_SEARCH": "Resultados para {0}"
+}

@@ -1,6 +1,13 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
+  reactStrictMode: false,
+  images: {
+    domains: ['imgs.xkcd.com']
+  },
+  i18n: {
+    locales: ['en', 'es', 'pt'],
+    defaultLocale: 'en'
+  }
 }
 
 module.exports = nextConfig
